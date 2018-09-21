@@ -1,5 +1,5 @@
 # simple-calc
-This is a simple project I did for a classmate's homework while I was in college.
+This is a simple project in pure C that I did for a classmate's homework while I was in college.
 
 A calculator program support simple math expression calculation and variable declaration.
 
