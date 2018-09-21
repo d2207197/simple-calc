@@ -1,6 +1,9 @@
 # simple-calc
-A simple project while I was in college.
-A calculator program support simple math expression and variable. 
+This is a simple project I did for a classmate's homework while I was in college.
+
+A calculator program support simple math expression calculation and variable declaration.
+
+for example
 
 ```
 int a, b, c;
